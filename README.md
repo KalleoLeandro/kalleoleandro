@@ -12,7 +12,7 @@
 <br>
 
 
-- 📚 Estudando *Java* e *Desenvolvimento de Web*
+- 📚 Estudando *Java* e *Desenvolvimento Web*
 - 🎙️ Ouvindo música boa(subentenda 70,80,90).
 - 🎮 *Games de PC*  - Steam: https://steamcommunity.com/profiles/76561198314853420/.
 
