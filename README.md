@@ -7,6 +7,14 @@
 
 <br>
 
+Apaixonado por tecnologia e ciências. Graduado em Sistemas de Informação e atualmente estudante de Engenharia de Computação e Engenharia de Software. 
+
+Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações utilizando tecnologias como Java, Node.js e Angular. Com um forte foco em criar soluções eficientes e escaláveis, possuo expreriência em projetos que envolvem desde a concepção até a entrega de sistemas robustos e de alta performance. Tenho expertise no uso de Spring Boot para construção de APIs e serviços backend, além de conhecimento aprofundado em bancos de dados como SQL Server e MySQL, utilizando JDBC para operações de banco de dados eficientes e seguras.
+
+Atuo em projetos no setor financeiro, onde contribui para o desenvolvimento de sistemas críticos com altos requisitos de segurança e integridade de dados. Tenho conhecimentos em mensageria utilizando RabbitMQ, facilitando a comunicação entre diferentes serviços e aplicações. Além disso, sou habilidoso no uso de containers Docker para criar ambientes de desenvolvimento e produção isolados, garantindo consistência e portabilidade.
+
+Possuo conhecimento em práticas de integração contínua, garantindo a qualidade e a entrega contínua de software. Busco oportunidades para colaborar com equipes dinâmicas e inovadoras, onde possa aplicar minha expertise em tecnologias backend e frontend para resolver desafios complexos e agregar valor ao negócio.
+
 ## Ocupações gerais
 <u></u>
 <br>
