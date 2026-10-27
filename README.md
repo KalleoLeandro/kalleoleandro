@@ -80,7 +80,7 @@ Em projetos profissionais, atuei em sistemas de operações bancárias, financia
 
 Projetos que representam diferentes áreas do meu interesse: **sistemas corporativos full stack, educação, automação, eletrônica e programação gráfica**.
 
-### 🏢 Sistema Gerencial Fullstack
+### 🏢 [Sistema Gerencial Fullstack](https://github.com/KalleoLeandro/sistema-gerencial-fullstack)
 
 **Aplicação full stack e laboratório prático de arquitetura e DevOps.** Projeto que reúne **Java/Spring Boot**, **Node.js/TypeScript (BFF)** e **Angular**, com serviços integrados e executados em containers Docker.
 
@@ -89,7 +89,9 @@ Projetos que representam diferentes áreas do meu interesse: **sistemas corporat
 - **Qualidade e operação:** testes, análise com SonarQube, monitoramento com Prometheus/Grafana e pipeline Jenkins.
 - **Objetivo:** evoluir uma aplicação completa e exercitar integração contínua, observabilidade e processos de entrega.
 
-*Projeto de desenvolvimento e estudo; não incluí um link porque não localizei um repositório público correspondente no perfil.*
+*Repositório privado: o link está disponível para referência, mas o código só pode ser acessado por pessoas autorizadas.*
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/sistema-gerencial-fullstack)
 
 ### 📝 [Sistema de Provas](https://github.com/KalleoLeandro/sistema-provas)
 
