@@ -78,14 +78,27 @@ Em projetos profissionais, atuei em sistemas de operações bancárias, financia
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que explora |
-| --- | --- |
-| [**Sistema de Vendas — Java, Node e Angular**](https://github.com/KalleoLeandro/sistema-vendas-angular-node-java) | Projeto full stack com integração entre camadas, APIs e interface web. |
-| [**Sistema de Provas**](https://github.com/KalleoLeandro/sistema-provas) | Aplicação voltada à criação e realização de avaliações educacionais. |
-| [**Controle de Lâmpadas com WebSocket**](https://github.com/KalleoLeandro/controle-lampadas-websocket) | Experimentos com comunicação em tempo real. |
-| [**Sistema Supervisório em Java**](https://github.com/KalleoLeandro/sistema-supervisorio-java) | Aplicação de Java a um contexto de supervisão e controle. |
-| [**100 Exercícios de Java**](https://github.com/KalleoLeandro/java-100-exercicios) | Prática de lógica de programação e fundamentos da linguagem. |
-| [**100 Exercícios de Python**](https://github.com/KalleoLeandro/python-100-exercicios) | Desenvolvimento de fluência em Python por meio de exercícios. |
+### 🐠 [Aquário Inteligente](https://github.com/KalleoLeandro/aquario-inteligente)
+
+**Automação e prototipagem com Arduino.** Simulação de um aquário automatizado, desenvolvida para explorar o uso conjunto de **dois Arduino Uno** e a integração entre sensores, atuadores e circuitos eletrônicos.
+
+- **Recursos explorados:** sensores de temperatura, distância e luminosidade; servo motor, motores CC, relés e outros componentes.
+- **Objetivo:** estudar automação, eletrônica e a coordenação de componentes em um protótipo reproduzível em simulador.
+- **Tecnologias e ferramentas:** Arduino, eletrônica digital, sensores e Tinkercad.
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/aquario-inteligente)
+
+### 📝 [Sistema de Provas](https://github.com/KalleoLeandro/sistema-provas)
+
+**Sistema educacional para aplicação e acompanhamento de avaliações.** Projeto voltado a professores e alunos, com foco na organização de questões, aplicação de provas e registro dos resultados.
+
+- **Proposta funcional:** cadastro de questões por disciplina e série/ano, com diferentes pesos e sorteio de questões para compor avaliações equilibradas.
+- **Fluxo do aluno:** identificação por código único (CGM), realização da avaliação, envio das respostas e consulta do resultado registrado.
+- **Objetivo:** apoiar o processo de avaliação escolar com rastreabilidade e critérios consistentes de distribuição de questões.
+
+*As funcionalidades descritas representam o escopo e a evolução planejada do projeto; consulte o repositório para verificar o estado atual da implementação.*
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/sistema-provas)
 
 ## 🔍 Como penso software
 
