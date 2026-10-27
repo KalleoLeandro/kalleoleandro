@@ -78,27 +78,68 @@ Em projetos profissionais, atuei em sistemas de operações bancárias, financia
 
 ## 🚀 Projetos em destaque
 
-### 🐠 [Aquário Inteligente](https://github.com/KalleoLeandro/aquario-inteligente)
+Projetos que representam diferentes áreas do meu interesse: **sistemas corporativos full stack, educação, automação, eletrônica e programação gráfica**.
 
-**Automação e prototipagem com Arduino.** Simulação de um aquário automatizado, desenvolvida para explorar o uso conjunto de **dois Arduino Uno** e a integração entre sensores, atuadores e circuitos eletrônicos.
+### 🏢 Sistema Gerencial Fullstack
 
-- **Recursos explorados:** sensores de temperatura, distância e luminosidade; servo motor, motores CC, relés e outros componentes.
-- **Objetivo:** estudar automação, eletrônica e a coordenação de componentes em um protótipo reproduzível em simulador.
-- **Tecnologias e ferramentas:** Arduino, eletrônica digital, sensores e Tinkercad.
+**Aplicação full stack e laboratório prático de arquitetura e DevOps.** Projeto que reúne **Java/Spring Boot**, **Node.js/TypeScript (BFF)** e **Angular**, com serviços integrados e executados em containers Docker.
 
-[**Ver repositório →**](https://github.com/KalleoLeandro/aquario-inteligente)
+- **Arquitetura:** separação entre front-end, camada BFF e API back-end.
+- **Infraestrutura:** Docker Compose, MySQL, MongoDB e RabbitMQ.
+- **Qualidade e operação:** testes, análise com SonarQube, monitoramento com Prometheus/Grafana e pipeline Jenkins.
+- **Objetivo:** evoluir uma aplicação completa e exercitar integração contínua, observabilidade e processos de entrega.
+
+*Projeto de desenvolvimento e estudo; não incluí um link porque não localizei um repositório público correspondente no perfil.*
 
 ### 📝 [Sistema de Provas](https://github.com/KalleoLeandro/sistema-provas)
 
-**Sistema educacional para aplicação e acompanhamento de avaliações.** Projeto voltado a professores e alunos, com foco na organização de questões, aplicação de provas e registro dos resultados.
+**Plataforma educacional para aplicação e acompanhamento de avaliações.** Solução orientada ao cadastro de questões, à montagem de provas e ao controle dos resultados dos alunos.
 
-- **Proposta funcional:** cadastro de questões por disciplina e série/ano, com diferentes pesos e sorteio de questões para compor avaliações equilibradas.
-- **Fluxo do aluno:** identificação por código único (CGM), realização da avaliação, envio das respostas e consulta do resultado registrado.
-- **Objetivo:** apoiar o processo de avaliação escolar com rastreabilidade e critérios consistentes de distribuição de questões.
+- **Escopo:** questões por disciplina e ano/série, com pesos e composição equilibrada de avaliações.
+- **Fluxo do aluno:** identificação por código único (CGM), respostas e registro de resultados.
+- **Objetivo:** facilitar o trabalho dos professores e favorecer rastreabilidade e consistência na avaliação.
 
-*As funcionalidades descritas representam o escopo e a evolução planejada do projeto; consulte o repositório para verificar o estado atual da implementação.*
+*As funcionalidades acima descrevem o escopo trabalhado para o projeto; o estágio de implementação pode ser consultado no repositório.*
 
 [**Ver repositório →**](https://github.com/KalleoLeandro/sistema-provas)
+
+### 📊 [Sistema Supervisório Java](https://github.com/KalleoLeandro/sistema-supervisorio-java)
+
+**Projeto de supervisão e integração entre aplicação web e hardware.** Sistema desenvolvido com **Java, Maven e PrimeFaces**, com conexão a **Arduino** e persistência em **MySQL**.
+
+- **Foco:** comunicação entre software e componentes eletrônicos.
+- **Interface:** aplicação web para a camada supervisória.
+- **Aprendizados:** integração hardware/software, persistência e gerenciamento de recursos de comunicação.
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/sistema-supervisorio-java)
+
+### 🐠 [Aquário Inteligente](https://github.com/KalleoLeandro/aquario-inteligente)
+
+**Protótipo simulado de automação de aquário com Arduino.** Demonstra o uso coordenado de **dois Arduino Uno**, sensores, motores, relés e componentes eletrônicos.
+
+- **Componentes:** sensores de temperatura, distância e luz; servo motor, motores CC e relés.
+- **Ferramenta:** circuito montado em simulador Tinkercad, facilitando a reprodução.
+- **Foco:** eletrônica, automação e integração de dispositivos.
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/aquario-inteligente)
+
+### 🎵 [Touhou Project — Bad Apple em TXT](https://github.com/KalleoLeandro/touhou-project-bad-apple-txt)
+
+**Reprodução do clipe Bad Apple!! usando Java Swing e dados armazenados em arquivos `.txt`.** Uma experiência de programação gráfica na qual os quadros são representados por **arrays de bytes**, em vez de imagens convencionais.
+
+- **Foco:** leitura e processamento de arquivos, representação de quadros e interface gráfica.
+- **Proposta:** explorar como dados textuais podem ser usados para reproduzir uma animação.
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/touhou-project-bad-apple-txt)
+
+### 🛒 [Sistema de Vendas — Angular, Node.js e Java](https://github.com/KalleoLeandro/sistema-vendas-angular-node-java)
+
+**Projeto de estudo e aplicação de arquitetura full stack**, integrando interfaces web, camada intermediária e serviços de back-end.
+
+- **Stack:** Angular, Node.js e Java.
+- **Foco:** APIs, comunicação entre camadas e organização de uma aplicação completa.
+
+[**Ver repositório →**](https://github.com/KalleoLeandro/sistema-vendas-angular-node-java)
 
 ## 🔍 Como penso software
 
