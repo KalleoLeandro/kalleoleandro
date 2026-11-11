@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Kalleo Leandro! 👋
+# Kalleo Leandro! 👋
 
 ### Desenvolvedor Full Stack | Java | Spring Boot | Angular | Node.js
 
