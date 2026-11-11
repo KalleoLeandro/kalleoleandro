@@ -28,7 +28,7 @@ Tenho formação em **Sistemas de Informação** e **pós-graduação em Desenvo
 
 ## 🧰 Competências técnicas
 
-Organizadas conforme a seção de **competências técnicas do meu currículo ATS**, com badges para facilitar a visualização.
+Organizadas conforme a seção de **competências técnicas do meu currículo**, com badges para facilitar a visualização.
 
 ### ⚙️ Backend
 
@@ -61,7 +61,7 @@ Organizadas conforme a seção de **competências técnicas do meu currículo AT
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-**Acesso e persistência:** JDBC · JPA · `NamedParameterJdbcTemplate`
+**Acesso e persistência:** JDBC · JPA · NamedParameterJdbcTemplate
 
 ### 🧪 Testes e qualidade
 
